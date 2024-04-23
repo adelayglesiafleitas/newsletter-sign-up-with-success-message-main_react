@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./form.css";
 
 const Form = ({ succes, setSucces }) => {
   const [inputForm, setInputForm] = useState("");
