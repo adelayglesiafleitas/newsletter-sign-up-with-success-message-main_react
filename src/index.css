@@ -142,6 +142,9 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.Form_container_lab_p p {
+  transform: translateX(-25px);
+}
 
 .Form_container label {
   margin-bottom: 15px;
@@ -282,5 +285,9 @@ footer {
   }
   .container_Succes button {
     transform: translateX(65px);
+  }
+
+  .Form_container_lab_p p {
+    transform: translateX(-175px);
   }
 }
