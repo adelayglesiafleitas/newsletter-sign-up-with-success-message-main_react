@@ -246,7 +246,9 @@ footer {
     border-radius: 20px;
     background-position: center;
     background-size: cover;
-    margin: auto auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 25px;
   }
   .container__principal_text {
     margin: 0;
