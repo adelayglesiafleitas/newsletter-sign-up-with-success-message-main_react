@@ -220,12 +220,11 @@ body {
 
 /************footer****/
 footer {
-  
   margin-top: 15px;
   border-radius: 10px;
 }
 
-/*.................(>768px)......................*/
+/*.................(>1440px)......................*/
 @media only screen and (min-width: 1440px) {
   body {
     width: 930px;
@@ -238,7 +237,7 @@ footer {
     border-radius: 20px;
   }
   .container__principal_img {
-    background-image: url(/src/assets/assets/images/illustration-sign-up-desktop.svg);
+    background-image: url(./assets/assets/images/illustration-sign-up-desktop.svg);
     width: 365px;
     height: 465px;
     border-radius: 20px;
